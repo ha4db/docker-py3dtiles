@@ -1,6 +1,6 @@
 # docker py3dtiles
 
-**Note:** Py3dtiles has now an [official docker image](https://hub.docker.com/r/py3dtiles/py3dtiles).
+**Note:** Py3dtiles now has an [official docker image](https://hub.docker.com/r/py3dtiles/py3dtiles).
 
 [py3dtiles](https://gitlab.com/Oslandia/py3dtiles) installed docker image.
 
